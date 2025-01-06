@@ -32,6 +32,12 @@ Estrutura de diretório:
         ├── dicas.txt
 ```
 
+## Documentação do Rust
+
+[Linguagem Rust - Instalação](https://www.rust-lang.org/)
+[Documentação Rust PT-br](https://rust-br.github.io/rust-book-pt-br/ch03-05-control-flow.html)
+[Documentação da Linguagem Rust](https://doc.rust-lang.org/nightly/edition-guide/introduction.html)
+
 ## Inicializar o projeto
 
 ```bash
