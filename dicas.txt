@@ -1,0 +1,9 @@
+/** Tipo de variavel PascalCase */
+PascalCase = VariavelPascalCase;
+
+/** Tipo de variavel camelCase */
+camelCase = variavelCamelCase;
+
+/** Tipo de variavel snake_case */
+snake_case = variavel_snake_case;'
+
