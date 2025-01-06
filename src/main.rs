@@ -1,7 +1,7 @@
 mod modulo1;
 
-use crate::modulo1::shadowing::shadowing;
+use crate::modulo1::tiposdados::tipos_dados;
 
 fn main() {
-    shadowing();
+    tipos_dados();
 }
