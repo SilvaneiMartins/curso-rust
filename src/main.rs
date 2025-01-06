@@ -1,7 +1,7 @@
 mod modulo1;
 
-use crate::modulo1::tiposdados::tipos_dados;
+use crate::modulo1::exercicios::exercicio_1;
 
 fn main() {
-    tipos_dados();
+    exercicio_1();
 }
