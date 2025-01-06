@@ -14,7 +14,25 @@ Essa Formação oferece um caminho abrangente e técnico para dominar essa lingu
 
 Além disso, a formação explora como aplicar conceitos de programação funcional em Rust, o que facilita a criação de soluções concisas e eficientes. Você também será introduzido ao desenvolvimento web com Rust, abordando como construir aplicações modernas e seguras. Finalmente, a formação enfatiza a importância da qualidade do código e dos testes, garantindo que você adquira habilidades para desenvolver software confiável e de alta qualidade. Esta formação é ideal para quem deseja aproveitar ao máximo as capacidades de Rust em diversos contextos de desenvolvimento.
 
-## Iniciarlizar o projeto
+## Estrutura do projeto
+
+```plaintext
+Estrutura de diretório:
+└── curso-rust/
+    └── src/
+        └── modulo1/
+            ├── mod.rs
+            ├── shadowing.rs
+            ├── tiposdados.rs
+            └── variaveis.rs
+        ├── main.rs
+        ├── README.md
+        ├── Cargo.toml
+        ├── LICENSE
+        ├── dicas.txt
+```
+
+## Inicializar o projeto
 
 ```bash
     cargo run
